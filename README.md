@@ -42,7 +42,10 @@ Modernizo plataformas legacy, automatizo procesos contables y de facturación el
 ## Proyectos
 
 - **BuilDev** (equipo, desde 2026): SaaS para distintos negocios, desplegados con Docker y Portainer.
-  Agendorio (reservas con asistente de WhatsApp con IA) · Rentablo (finanzas, offline-first) · Loyenta (tarjeta de sellos en Google Wallet) · BuildFlow (plataforma interna con servidor MCP).
+  - **Agendorio**: reservas con asistente de WhatsApp con IA.
+  - **Rentablo**: gestión financiera para pequeños negocios, offline-first.
+  - **Loyenta**: tarjeta de sellos digital en Google Wallet.
+  - **BuildFlow**: plataforma interna con servidor MCP.
 - **Ciolix**: causación contable inteligente. Extrae facturas de la DIAN y exporta archivos listos para Siigo. FastAPI + Next.js.
 - **Otros**: menú digital con pedidos en línea (Next.js, Vercel) y tarjeta de presentación digital por QR (Cloudflare Workers).
 
