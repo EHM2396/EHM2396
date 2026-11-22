@@ -48,10 +48,7 @@ Modernizo plataformas legacy, automatizo procesos contables y de facturación el
 
 ## Actividad
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EHM2396&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=0E7490&ring_color=22D3EE" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHM2396&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Lenguajes más usados" />
-</p>
+<img src="assets/stats.svg" alt="Estadísticas de GitHub" width="100%" />
 
 ## Contacto
 
