@@ -42,12 +42,12 @@ Modernizo plataformas legacy, automatizo procesos contables y de facturación el
 ## Proyectos
 
 - **BuilDev** (equipo, desde 2026): SaaS para distintos negocios, desplegados con Docker y Portainer.
-  - **Agendorio**: reservas con asistente de WhatsApp con IA.
-  - **Rentablo**: gestión financiera para pequeños negocios, offline-first.
+  - **[Agendorio](https://agendorio.buildev.co/)**: reservas con asistente de WhatsApp con IA.
+  - **[Rentablo](https://rentablo.buildev.co/)**: gestión financiera para pequeños negocios, offline-first.
   - **Loyenta**: tarjeta de sellos digital en Google Wallet.
   - **BuildFlow**: plataforma interna con servidor MCP.
-- **Ciolix**: causación contable inteligente. Extrae facturas de la DIAN y exporta archivos listos para Siigo. FastAPI + Next.js.
-- **Otros**: menú digital con pedidos en línea (Next.js, Vercel) y tarjeta de presentación digital por QR (Cloudflare Workers).
+- **[Ciolix](https://smart-causation-52ig.vercel.app/)**: causación contable inteligente. Extrae facturas de la DIAN y exporta archivos listos para Siigo. FastAPI + Next.js.
+- **Otros**: [menú digital](https://como-seria-menu.vercel.app/) con pedidos en línea (Next.js, Vercel) y [tarjeta de presentación digital](https://luer-studio.erickpro23.workers.dev/) por QR (Cloudflare Workers).
 
 ## Actividad
 
