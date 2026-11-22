@@ -22,7 +22,7 @@ Modernizo plataformas legacy, automatizo procesos contables y de facturación el
 
 ## Stack
 
-| | |
+| Área | Tecnologías |
 |:--|:--|
 | **Frontend** | ![Angular](https://img.shields.io/badge/Angular-0F172A?style=flat-square&logo=angular&logoColor=22D3EE) ![AngularJS](https://img.shields.io/badge/AngularJS-0F172A?style=flat-square&logo=angularjs&logoColor=22D3EE) ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=22D3EE) ![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=22D3EE) ![Vite](https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=22D3EE) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=22D3EE) ![AG Grid](https://img.shields.io/badge/AG_Grid-0F172A?style=flat-square&logoColor=22D3EE) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22D3EE) ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=22D3EE) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=22D3EE) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=22D3EE) ![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=22D3EE) ![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=22D3EE) |
